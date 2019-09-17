@@ -1,0 +1,1 @@
+[Song{title='purple', nameAuthor='prince', nameAlbum='prince', year=1980}]
